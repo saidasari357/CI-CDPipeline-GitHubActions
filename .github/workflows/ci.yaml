@@ -7,9 +7,8 @@ jobs:
             - name: Printing a message
               run: echo "Hello, World!"
             - name: Show current time
-                run: date
+              run: date
             - name: List files in the repository
-                run: ls -la
+              run: ls -la
                 
 
-                
